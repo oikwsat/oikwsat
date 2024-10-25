@@ -99,6 +99,8 @@ Here are some ideas to get you started:
 ![Google Drive](https://img.shields.io/badge/-Google%20Drive-05122A?style=flat&logo=googledrive)&nbsp;
 ![JIRA](https://img.shields.io/badge/-JIRA-05122A?style=flat&logo=jira)&nbsp;
 ![Backlog](https://img.shields.io/badge/-Backlog-05122A?style=flat&logo=Backlog)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
+![Obsidian](https://img.shields.io/badge/-Obsidian-05122A?style=flat&logo=Obsidian)&nbsp;
 
 ## GitHub Stats
 
