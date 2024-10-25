@@ -59,6 +59,15 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
+### CI Tools:
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
+![CircleCI](https://img.shields.io/badge/-CircleCI-05122A?style=flat&logo=CircleCI)&nbsp;
+![Codecov](https://img.shields.io/badge/-Codecov-05122A?style=flat&logo=Codecov)&nbsp;
+![Coveralls](https://img.shields.io/badge/-Coveralls-05122A?style=flat&logo=Coveralls)&nbsp;
+
 ### Testing libraries and Framework:
 
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
@@ -69,15 +78,6 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![MagicPod](https://img.shields.io/badge/-MagicPod-05122A?style=flat&logo=magicpod)&nbsp;
 ![Autify](https://img.shields.io/badge/-Autify-05122A?style=flat&logo=autify)&nbsp;
-
-### CI Tools:
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
-![CircleCI](https://img.shields.io/badge/-CircleCI-05122A?style=flat&logo=CircleCI)&nbsp;
-![Codecov](https://img.shields.io/badge/-Codecov-05122A?style=flat&logo=Codecov)&nbsp;
-![Coveralls](https://img.shields.io/badge/-Coveralls-05122A?style=flat&logo=Coveralls)&nbsp;
 
 ### Testing Tools:
 
