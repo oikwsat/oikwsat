@@ -1,18 +1,13 @@
 <h1 align="center">
-Hi, I'm Satoshi Oikawa!
+	Hi, I'm Satoshi!
 	<a href="https://github.com/oikwsat" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<p align="center">
-	<a href="https://github.com/oikwsat">
-		<img src="https://komarev.com/ghpvc/?username=oikwsat&label=Profile%20views&color=0e75b6&style=flat" alt="oikwsat" />
-	</a>
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://img.shields.io/github/followers/oikwsat?label=Followers" alt="oikwsat" />
-	</a>
-</p>
-<br/>
+<div align="center">
+	<img src="https://komarev.com/ghpvc/?username=oikwsat&label=Profile%20views&color=0e75b6&style=flat" alt="oikwsat">
+	<img src="https://img.shields.io/github/followers/oikwsat?label=Followers" alt="oikwsat">
+</div>
 
 I'm a senior QA engineer.
 
@@ -106,11 +101,11 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 ## GitHub Stats
-     
-|                                                       Stats                                                               |                                                Streak                                                |
-|:-------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=oikwsat&count_private=true&show_icons=true&theme=algolia)    | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oikwsat&theme=algolia)              | 
 
-|                                                    Top Languages                                                          |                                           Contributor Stats                                          |
-|:-------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
-| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oikwsat&hide=html,asp,css&theme=algolia)      | ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=oikwsat&theme=algolia) |
+|                                                       Stats                                                                       |                                                Streak                                                |
+|:---------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
+| ![Stats](https://github-readme-stats-oikwsat.vercel.app/api?username=oikwsat&count_private=true&show_icons=true&theme=algolia)    | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oikwsat&theme=algolia)              | 
+
+|                                                    Top Languages                                                                  |                                           Contributor Stats                                          |
+|:---------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
+| ![Languages](https://github-readme-stats-oikwsat.vercel.app/api/top-langs/?username=oikwsat&hide=html,asp,css,mdx&theme=algolia)  | ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=oikwsat&theme=algolia) |
