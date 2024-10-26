@@ -97,9 +97,11 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![JIRA](https://img.shields.io/badge/-JIRA-05122A?style=flat&logo=jira)&nbsp;
 ![Google Drive](https://img.shields.io/badge/-Google%20Drive-05122A?style=flat&logo=googledrive)&nbsp;
-![Backlog](https://img.shields.io/badge/-Backlog-05122A?style=flat&logo=Backlog)&nbsp;
+![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack)&nbsp;
+![esa](https://img.shields.io/badge/-esa-05122A?style=flat&logo=esa)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
 ![Obsidian](https://img.shields.io/badge/-Obsidian-05122A?style=flat&logo=Obsidian)&nbsp;
+![Backlog](https://img.shields.io/badge/-Backlog-05122A?style=flat&logo=Backlog)&nbsp;
 ![Sphinx](https://img.shields.io/badge/-Sphinx-05122A?style=flat&logo=Sphinx)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
