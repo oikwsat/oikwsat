@@ -57,16 +57,6 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-
-### CI Tools:
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
-![CircleCI](https://img.shields.io/badge/-CircleCI-05122A?style=flat&logo=CircleCI)&nbsp;
-![Codecov](https://img.shields.io/badge/-Codecov-05122A?style=flat&logo=Codecov)&nbsp;
-![Coveralls](https://img.shields.io/badge/-Coveralls-05122A?style=flat&logo=Coveralls)&nbsp;
 
 ### Testing libraries and Framework:
 
@@ -78,6 +68,15 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![MagicPod](https://img.shields.io/badge/-MagicPod-05122A?style=flat&logo=magicpod)&nbsp;
 ![Autify](https://img.shields.io/badge/-Autify-05122A?style=flat&logo=autify)&nbsp;
+
+### CI Tools:
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
+![CircleCI](https://img.shields.io/badge/-CircleCI-05122A?style=flat&logo=CircleCI)&nbsp;
+![Codecov](https://img.shields.io/badge/-Codecov-05122A?style=flat&logo=Codecov)&nbsp;
+![Coveralls](https://img.shields.io/badge/-Coveralls-05122A?style=flat&logo=Coveralls)&nbsp;
 
 ### Testing Tools:
 
@@ -93,21 +92,23 @@ Here are some ideas to get you started:
 ![InVision](https://img.shields.io/badge/-InVision-05122A?style=flat&logo=InVision)&nbsp;
 ![Miro](https://img.shields.io/badge/-Miro-05122A?style=flat&logo=Miro)&nbsp;
 
-### <u> Management Tools: </u>
+### <u> Management and Document Tools: </u>
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Google Drive](https://img.shields.io/badge/-Google%20Drive-05122A?style=flat&logo=googledrive)&nbsp;
 ![JIRA](https://img.shields.io/badge/-JIRA-05122A?style=flat&logo=jira)&nbsp;
+![Google Drive](https://img.shields.io/badge/-Google%20Drive-05122A?style=flat&logo=googledrive)&nbsp;
 ![Backlog](https://img.shields.io/badge/-Backlog-05122A?style=flat&logo=Backlog)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
 ![Obsidian](https://img.shields.io/badge/-Obsidian-05122A?style=flat&logo=Obsidian)&nbsp;
+![Sphinx](https://img.shields.io/badge/-Sphinx-05122A?style=flat&logo=Sphinx)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 ## GitHub Stats
+     
+|                                                       Stats                                                               |                                                Streak                                                |
+|:-------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=oikwsat&count_private=true&show_icons=true&theme=algolia)    | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oikwsat&theme=algolia)              | 
 
-|                                                    Stats                                                                  |                                         Streak                                                   |
-|:-------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=oikwsat&count_private=true&show_icons=true&theme=tokyonight) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oikwsat&theme=tokyonight)       | 
-
-|                                                    Top Languages                                                        |                                           Contribution Repos                                       |
-|:-------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oikwsat&hide=html,asp,css&theme=tokyonight) | ![Contribution](https://github-contributor-stats.vercel.app/api?username=oikwsat&theme=tokyonight) |
+|                                                    Top Languages                                                          |                                           Contributor Stats                                          |
+|:-------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
+| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oikwsat&hide=html,asp,css&theme=algolia)      | ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=oikwsat&theme=algolia) |
