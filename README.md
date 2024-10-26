@@ -45,10 +45,12 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+<br/>
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=reactnative)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
+<br/>
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
@@ -61,17 +63,19 @@ Here are some ideas to get you started:
 ![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=Playwright)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+<br/>
 ![MagicPod](https://img.shields.io/badge/-MagicPod-05122A?style=flat&logo=magicpod)&nbsp;
 ![Autify](https://img.shields.io/badge/-Autify-05122A?style=flat&logo=autify)&nbsp;
 
-### CI Tools:
+### DevOps Tools:
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
 ![CircleCI](https://img.shields.io/badge/-CircleCI-05122A?style=flat&logo=CircleCI)&nbsp;
 ![Codecov](https://img.shields.io/badge/-Codecov-05122A?style=flat&logo=Codecov)&nbsp;
 ![Coveralls](https://img.shields.io/badge/-Coveralls-05122A?style=flat&logo=Coveralls)&nbsp;
+<br/>
+![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazonwebservices)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=googlecloud)&nbsp;
 
 ### Testing Tools:
 
@@ -93,12 +97,14 @@ Here are some ideas to get you started:
 ![JIRA](https://img.shields.io/badge/-JIRA-05122A?style=flat&logo=jira)&nbsp;
 ![Google Drive](https://img.shields.io/badge/-Google%20Drive-05122A?style=flat&logo=googledrive)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack)&nbsp;
-![esa](https://img.shields.io/badge/-esa-05122A?style=flat&logo=esa)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
-![Obsidian](https://img.shields.io/badge/-Obsidian-05122A?style=flat&logo=Obsidian)&nbsp;
-![Backlog](https://img.shields.io/badge/-Backlog-05122A?style=flat&logo=Backlog)&nbsp;
 ![Sphinx](https://img.shields.io/badge/-Sphinx-05122A?style=flat&logo=Sphinx)&nbsp;
+![Backlog](https://img.shields.io/badge/-Backlog-05122A?style=flat&logo=Backlog)&nbsp;
+![esa](https://img.shields.io/badge/-esa-05122A?style=flat&logo=esa)&nbsp;
+<br/>
+![Obsidian](https://img.shields.io/badge/-Obsidian-05122A?style=flat&logo=Obsidian)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![MDX](https://img.shields.io/badge/-MDX-05122A?style=flat&logo=MDX)&nbsp;
 
 ## GitHub Stats
 
