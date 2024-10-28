@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 ![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=Playwright)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Karate](https://img.shields.io/badge/-Karate-05122A?style=flat&logo=karate)&nbsp;
 <br/>
 ![MagicPod](https://img.shields.io/badge/-MagicPod-05122A?style=flat&logo=magicpod)&nbsp;
 ![Autify](https://img.shields.io/badge/-Autify-05122A?style=flat&logo=autify)&nbsp;
@@ -94,6 +95,7 @@ Here are some ideas to get you started:
 ### <u> Management and Document Tools: </u>
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![JIRA](https://img.shields.io/badge/-JIRA-05122A?style=flat&logo=jira)&nbsp;
 ![Google Drive](https://img.shields.io/badge/-Google%20Drive-05122A?style=flat&logo=googledrive)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack)&nbsp;
