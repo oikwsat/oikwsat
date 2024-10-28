@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
 ![CircleCI](https://img.shields.io/badge/-CircleCI-05122A?style=flat&logo=CircleCI)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
 ![Codecov](https://img.shields.io/badge/-Codecov-05122A?style=flat&logo=Codecov)&nbsp;
 ![Coveralls](https://img.shields.io/badge/-Coveralls-05122A?style=flat&logo=Coveralls)&nbsp;
 <br/>
