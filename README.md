@@ -1,5 +1,5 @@
 <h1 align="center">
-	Hi, I'm Satoshi!
+	Hi, I'm Satoshi Oikawa!
 	<a href="https://github.com/oikwsat" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -15,9 +15,9 @@ I'm a senior QA engineer.
   - Web App: 5+ years
   - Mobile App: 3+ years
 - Development
-  - Windows App: 5 years
   - Web App: 5+ years
   - Mobile App 2+ years
+  - Windows App: 5 years
 
 <!--
 **oikwsat/oikwsat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
