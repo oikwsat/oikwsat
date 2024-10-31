@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
+![Appium](https://img.shields.io/badge/-Appium-05122A?style=flat&logo=Appium)&nbsp;
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=Puppeteer)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
 ![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=Playwright)&nbsp;
@@ -92,6 +93,7 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Sentry](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=Sentry)&nbsp;
 ![LaunchDarkly](https://img.shields.io/badge/-LaunchDarkly-05122A?style=flat&logo=LaunchDarkly)&nbsp;
+![Bitrise](https://img.shields.io/badge/-Bitrise-05122A?style=flat&logo=Bitrise)&nbsp;
 
 ### Design Tools:
 
