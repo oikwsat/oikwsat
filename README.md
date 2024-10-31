@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
 
-### Testing libraries and Framework:
+### Testing libraries and Frameworks:
 
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
@@ -70,6 +70,14 @@ Here are some ideas to get you started:
 ![MagicPod](https://img.shields.io/badge/-MagicPod-05122A?style=flat&logo=magicpod)&nbsp;
 ![Autify](https://img.shields.io/badge/-Autify-05122A?style=flat&logo=autify)&nbsp;
 
+### Testing Tools:
+
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-05122A?style=flat&logo=googlesheets)&nbsp;
+![TestRail](https://img.shields.io/badge/-TestRail-05122A?style=flat&logo=testrail)&nbsp;
+![Charles](https://img.shields.io/badge/-Charles-05122A?style=flat&logo=charles)&nbsp;
+![Fiddler](https://img.shields.io/badge/-Fiddler-05122A?style=flat&logo=fiddler)&nbsp;
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-05122A?style=flat&logo=owaspzap)&nbsp;
+
 ### DevOps Tools:
 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
@@ -80,14 +88,10 @@ Here are some ideas to get you started:
 <br/>
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazonwebservices)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=googlecloud)&nbsp;
-
-### Testing Tools:
-
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-05122A?style=flat&logo=googlesheets)&nbsp;
-![TestRail](https://img.shields.io/badge/-TestRail-05122A?style=flat&logo=testrail)&nbsp;
-![Charles](https://img.shields.io/badge/-Charles-05122A?style=flat&logo=charles)&nbsp;
-![Fiddler](https://img.shields.io/badge/-Fiddler-05122A?style=flat&logo=fiddler)&nbsp;
-![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-05122A?style=flat&logo=owaspzap)&nbsp;
+<br/>
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
+![Sentry](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=Sentry)&nbsp;
+![LaunchDarkly](https://img.shields.io/badge/-LaunchDarkly-05122A?style=flat&logo=LaunchDarkly)&nbsp;
 
 ### Design Tools:
 
