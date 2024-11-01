@@ -58,15 +58,17 @@ Here are some ideas to get you started:
 ### Testing libraries and Frameworks:
 
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
-![Appium](https://img.shields.io/badge/-Appium-05122A?style=flat&logo=Appium)&nbsp;
+![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=Storybook)&nbsp;
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=Puppeteer)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
 ![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=Playwright)&nbsp;
 ![Nightwatch](https://img.shields.io/badge/-Nightwatch-05122A?style=flat&logo=Nightwatch)&nbsp;
+<br/>
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Karate](https://img.shields.io/badge/-Karate-05122A?style=flat&logo=karate)&nbsp;
 <br/>
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
+![Appium](https://img.shields.io/badge/-Appium-05122A?style=flat&logo=Appium)&nbsp;
 ![BrowserStack](https://img.shields.io/badge/-BrowserStack-05122A?style=flat&logo=browserstack)&nbsp;
 ![MagicPod](https://img.shields.io/badge/-MagicPod-05122A?style=flat&logo=magicpod)&nbsp;
 ![Autify](https://img.shields.io/badge/-Autify-05122A?style=flat&logo=autify)&nbsp;
