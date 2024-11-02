@@ -108,18 +108,25 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![JIRA](https://img.shields.io/badge/-JIRA-05122A?style=flat&logo=jira)&nbsp;
-![Google Drive](https://img.shields.io/badge/-Google%20Drive-05122A?style=flat&logo=googledrive)&nbsp;
-![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack)&nbsp;
-<br/>
-![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
 ![Backlog](https://img.shields.io/badge/-Backlog-05122A?style=flat&logo=Backlog)&nbsp;
+<br/>
+![Google Drive](https://img.shields.io/badge/-Google%20Drive-05122A?style=flat&logo=googledrive)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
 ![esa](https://img.shields.io/badge/-esa-05122A?style=flat&logo=esa)&nbsp;
 ![DockBase](https://img.shields.io/badge/-DockBase-05122A?style=flat&logo=DockBase)&nbsp;
+<br/>
+![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack)&nbsp;
+![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord)&nbsp;
+![Gather](https://img.shields.io/badge/-Gather-05122A?style=flat&logo=Gather)&nbsp;
+![Chatwork](https://img.shields.io/badge/-Chatwork-05122A?style=flat&logo=Chatwork)&nbsp;
 <br/>
 ![Sphinx](https://img.shields.io/badge/-Sphinx-05122A?style=flat&logo=Sphinx)&nbsp;
 ![Obsidian](https://img.shields.io/badge/-Obsidian-05122A?style=flat&logo=Obsidian)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![MDX](https://img.shields.io/badge/-MDX-05122A?style=flat&logo=MDX)&nbsp;
+<br/>
+![Asana](https://img.shields.io/badge/-Asana-05122A?style=flat&logo=Asana)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello)&nbsp;
 
 ## GitHub Stats
 
