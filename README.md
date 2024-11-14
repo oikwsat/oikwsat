@@ -9,7 +9,7 @@
 	<img src="https://img.shields.io/github/followers/oikwsat?label=Followers" alt="oikwsat">
 </div>
 
-I'm a senior QA engineer and corgi lover.
+I'm a senior QA engineer and Corgi lover.
 
 - Testing
   - Web App: 5+ years
