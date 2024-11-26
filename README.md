@@ -59,19 +59,23 @@ Here are some ideas to get you started:
 
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=Storybook)&nbsp;
+![Codecov](https://img.shields.io/badge/-Codecov-05122A?style=flat&logo=Codecov)&nbsp;
+![Coveralls](https://img.shields.io/badge/-Coveralls-05122A?style=flat&logo=Coveralls)&nbsp;
+<br/>
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=Puppeteer)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
 ![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=Playwright)&nbsp;
 ![Nightwatch](https://img.shields.io/badge/-Nightwatch-05122A?style=flat&logo=Nightwatch)&nbsp;
 <br/>
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
+![Appium](https://img.shields.io/badge/-Appium-05122A?style=flat&logo=Appium)&nbsp;
+<br/>
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Karate](https://img.shields.io/badge/-Karate-05122A?style=flat&logo=karate)&nbsp;
 <br/>
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
-![Appium](https://img.shields.io/badge/-Appium-05122A?style=flat&logo=Appium)&nbsp;
-![BrowserStack](https://img.shields.io/badge/-BrowserStack-05122A?style=flat&logo=browserstack)&nbsp;
 ![MagicPod](https://img.shields.io/badge/-MagicPod-05122A?style=flat&logo=magicpod)&nbsp;
 ![Autify](https://img.shields.io/badge/-Autify-05122A?style=flat&logo=autify)&nbsp;
+![BrowserStack](https://img.shields.io/badge/-BrowserStack-05122A?style=flat&logo=browserstack)&nbsp;
 ![Firebase Test Lab](https://img.shields.io/badge/-Firebase%20Test%20Lab-05122A?style=flat&logo=Firebase)&nbsp;
 
 ### Testing Tools:
@@ -87,8 +91,7 @@ Here are some ideas to get you started:
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
 ![CircleCI](https://img.shields.io/badge/-CircleCI-05122A?style=flat&logo=CircleCI)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
-![Codecov](https://img.shields.io/badge/-Codecov-05122A?style=flat&logo=Codecov)&nbsp;
-![Coveralls](https://img.shields.io/badge/-Coveralls-05122A?style=flat&logo=Coveralls)&nbsp;
+![Bitrise](https://img.shields.io/badge/-Bitrise-05122A?style=flat&logo=Bitrise)&nbsp;
 <br/>
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazonwebservices)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=googlecloud)&nbsp;
@@ -98,7 +101,6 @@ Here are some ideas to get you started:
 ![LaunchDarkly](https://img.shields.io/badge/-LaunchDarkly-05122A?style=flat&logo=LaunchDarkly)&nbsp;
 <br/>
 ![TestFlight](https://img.shields.io/badge/-TestFlight-05122A?style=flat&logo=TestFlight)&nbsp;
-![Bitrise](https://img.shields.io/badge/-Bitrise-05122A?style=flat&logo=Bitrise)&nbsp;
 ![Firebase App Distribution](https://img.shields.io/badge/-Firebase%20App%20Distribution-05122A?style=flat&logo=Firebase)&nbsp;
 
 ### Design Tools:
