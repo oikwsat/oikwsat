@@ -12,12 +12,12 @@
 I'm a senior QA engineer and Corgi lover.
 
 - Testing
-  - Web App: 5+ years
+  - Web App: 7+ years
   - Mobile App: 3+ years
 - Development
-  - Web App: 5+ years
+  - Web App: 7+ years
   - Mobile App 2+ years
-  - Windows App: 5 years
+  - Windows App: 7 years
 
 <!--
 **oikwsat/oikwsat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 ![BrowserStack](https://img.shields.io/badge/-BrowserStack-05122A?style=flat&logo=browserstack)&nbsp;
 ![MagicPod](https://img.shields.io/badge/-MagicPod-05122A?style=flat&logo=magicpod)&nbsp;
 ![Autify](https://img.shields.io/badge/-Autify-05122A?style=flat&logo=autify)&nbsp;
+![Firebase Test Lab](https://img.shields.io/badge/-Firebase%20Test%20Lab-05122A?style=flat&logo=Firebase)&nbsp;
 
 ### Testing Tools:
 
@@ -91,11 +92,14 @@ Here are some ideas to get you started:
 <br/>
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazonwebservices)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=googlecloud)&nbsp;
-<br/>
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
+<br/>
 ![Sentry](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=Sentry)&nbsp;
 ![LaunchDarkly](https://img.shields.io/badge/-LaunchDarkly-05122A?style=flat&logo=LaunchDarkly)&nbsp;
+<br/>
+![TestFlight](https://img.shields.io/badge/-TestFlight-05122A?style=flat&logo=TestFlight)&nbsp;
 ![Bitrise](https://img.shields.io/badge/-Bitrise-05122A?style=flat&logo=Bitrise)&nbsp;
+![Firebase App Distribution](https://img.shields.io/badge/-Firebase%20App%20Distribution-05122A?style=flat&logo=Firebase)&nbsp;
 
 ### Design Tools:
 
