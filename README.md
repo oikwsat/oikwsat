@@ -34,6 +34,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## GitHub Stats
+|                                                       Stats                                                                       |                                                Streak                                                |
+|:---------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
+| ![Stats](https://github-readme-stats-oikwsat.vercel.app/api?username=oikwsat&count_private=true&show_icons=true&theme=algolia)    | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oikwsat&theme=algolia)              | 
+
+|                                                    Top Languages                                                                  |                                           Contributor Stats                                          |
+|:---------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
+| ![Languages](https://github-readme-stats-oikwsat.vercel.app/api/top-langs/?username=oikwsat&hide=html,asp,css,mdx&theme=algolia)  | ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=oikwsat&theme=algolia) |
+
 ## 🚀💻 Technologies & Tools
 
 ### Programming Languages:
@@ -133,13 +142,3 @@ Here are some ideas to get you started:
 <br/>
 ![Asana](https://img.shields.io/badge/-Asana-05122A?style=flat&logo=Asana)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello)&nbsp;
-
-## GitHub Stats
-
-|                                                       Stats                                                                       |                                                Streak                                                |
-|:---------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
-| ![Stats](https://github-readme-stats-oikwsat.vercel.app/api?username=oikwsat&count_private=true&show_icons=true&theme=algolia)    | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oikwsat&theme=algolia)              | 
-
-|                                                    Top Languages                                                                  |                                           Contributor Stats                                          |
-|:---------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
-| ![Languages](https://github-readme-stats-oikwsat.vercel.app/api/top-langs/?username=oikwsat&hide=html,asp,css,mdx&theme=algolia)  | ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=oikwsat&theme=algolia) |
