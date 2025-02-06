@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ## GitHub Stats
 |                                                       Stats                                                                       |                                                Streak                                                |
 |:---------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
-| ![Stats](https://github-readme-stats-oikwsat.vercel.app/api?username=oikwsat&count_private=true&show_icons=true&theme=algolia)    | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oikwsat&theme=algolia)              | 
+| ![Stats](https://github-readme-stats-oikwsat.vercel.app/api?username=oikwsat&count_private=true&show_icons=true&theme=algolia)    | ![Streak](https://github-readme-streak-stats-seven-azure.vercel.app/?user=oikwsat&theme=algolia)              | 
 
 |                                                    Top Languages                                                                  |                                           Contributor Stats                                          |
 |:---------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
