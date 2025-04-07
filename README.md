@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
 
-### Testing libraries and Frameworks:
+### Testing libraries, Frameworks and Tools:
 
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=Storybook)&nbsp;
@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 <br/>
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
 ![Appium](https://img.shields.io/badge/-Appium-05122A?style=flat&logo=Appium)&nbsp;
+![Firebase Test Lab](https://img.shields.io/badge/-Firebase%20Test%20Lab-05122A?style=flat&logo=Firebase)&nbsp;
 <br/>
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Karate](https://img.shields.io/badge/-Karate-05122A?style=flat&logo=karate)&nbsp;
@@ -85,12 +86,11 @@ Here are some ideas to get you started:
 ![MagicPod](https://img.shields.io/badge/-MagicPod-05122A?style=flat&logo=magicpod)&nbsp;
 ![Autify](https://img.shields.io/badge/-Autify-05122A?style=flat&logo=autify)&nbsp;
 ![BrowserStack](https://img.shields.io/badge/-BrowserStack-05122A?style=flat&logo=browserstack)&nbsp;
-![Firebase Test Lab](https://img.shields.io/badge/-Firebase%20Test%20Lab-05122A?style=flat&logo=Firebase)&nbsp;
-
-### Testing Tools:
-
+<br/>
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-05122A?style=flat&logo=googlesheets)&nbsp;
 ![TestRail](https://img.shields.io/badge/-TestRail-05122A?style=flat&logo=testrail)&nbsp;
+![GIHOZ](https://img.shields.io/badge/-GIHOZ-05122A?style=flat&logo=gihoz)&nbsp;
+<br/>
 ![Charles](https://img.shields.io/badge/-Charles-05122A?style=flat&logo=charles)&nbsp;
 ![Fiddler](https://img.shields.io/badge/-Fiddler-05122A?style=flat&logo=fiddler)&nbsp;
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-05122A?style=flat&logo=owaspzap)&nbsp;
